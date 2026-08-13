@@ -22,7 +22,7 @@ An educational Python project that parses mathematical expressions into syntax t
 
 ```bash
 python -m venv .venv
-source .venv/bin/activate       # Windows: .venv\\Scripts\\activate
+source .venv/bin/activate       # Windows: .venv\Scripts\activate
 python -m pip install -e ".[dev]"
 ```
 
@@ -60,4 +60,4 @@ The symbolic integrator recognizes selected textbook patterns and does not perfo
 
 ## License
 
-No license has been selected yet. Add a `LICENSE` file before inviting reuse or contributions.
+This project is available under the [MIT License](LICENSE).
